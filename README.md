@@ -14,4 +14,3 @@ On the repository page, click the green “Code” button and copy the URL.
 
 Open Git Bash or a terminal on your computer and run: git clone <URL>
 
-sample commit
